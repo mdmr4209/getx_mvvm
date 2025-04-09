@@ -3,6 +3,8 @@ import 'package:get/get.dart';
 import 'package:getx_mvvm/res/getx_localization/languages.dart';
 import 'package:getx_mvvm/res/routes/routes.dart';
 
+//MAIL: eve.holt@reqres.in
+//pass: cityslicka
 void main() {
   runApp(const MyApp());
 }
